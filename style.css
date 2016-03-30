@@ -94,7 +94,7 @@ body.page-index .frame-land p { margin-top: 20px; }
 .button:hover { background-color: #698400; color: #fff!important; }
 
 /*.download { border-bottom: 2px solid #333; padding-bottom: 10px; overflow:hidden; margin-bottom: 20px;}*/
-.download { clear:both;  padding-bottom: 10px; overflow:hidden; margin-bottom: 0px; margin-top: 2px;}
+.download { clear:both;  padding-bottom: 20px; overflow:hidden; margin-bottom: 0px; margin-top: 2px;}
 .download .button { float: left; margin-right: 20px;  }
 .download .version { font-weight: bold; font-size: 16px; padding-top: 4px; margin-top: 0px; margin-bottom: 8px; }
 .download .version span.number { color: #00208C; }
