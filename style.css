@@ -139,7 +139,7 @@ p.list-title { font-size: 15px; font-weight: bold; margin-bottom: 5px;}
 p.list-title a { font-size: 12px; color: #333; font-style: italic; text-decoration: underline;}
 p.list-title a:hover { color: #fff; }
 
-span.icons { width: 23px; height: 16px; background: url('../images/icons-sprite.png') 0 0 no-repeat; display: inline-block; margin-right: 12px; text-indent: -99999;}
+span.icons { width: 23px; height: 16px; background: url('https://2.bp.blogspot.com/-YcIKfq_6YaQ/VwA1omJZMtI/AAAAAAAAAEA/tdVjNYcYu9gchdOF-6cbMqKQJ2t-qVpwQ/s1600/icons-sprite.png') 0 0 no-repeat; display: inline-block; margin-right: 12px; text-indent: -99999;}
 span.icons.icon-video { background-position: 0 0; }
 span.icons.icon-screenshot { background-position: 0 -16px; }
 span.icons.icon-music { background-position: 0 -32px; }
