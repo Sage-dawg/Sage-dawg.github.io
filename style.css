@@ -155,7 +155,7 @@ span.icons.icon-dev { width: 10px; height: 10px; background-position: -44px -92p
 .dead-link { margin: 16px auto 17px; }
 
 .media-more { float: right; margin-top: -20px;}
-.media li span, .media-link span { font-size: 13px;  width: 100%; display: block; position: absolute; bottom: 0; color: #fff; margin: 0; padding: 0; background: #796035 url('../images/icons-sprite.png') -35px -132px no-repeat; padding: 8px 8px 8px 26px; }
+.media li span, .media-link span { font-size: 13px;  width: 100%; display: block; position: absolute; bottom: 0; color: #fff; margin: 0; padding: 0; background: #796035 url('https://2.bp.blogspot.com/-YcIKfq_6YaQ/VwA1omJZMtI/AAAAAAAAAEA/tdVjNYcYu9gchdOF-6cbMqKQJ2t-qVpwQ/s1600/icons-sprite.png') -35px -132px no-repeat; padding: 8px 8px 8px 26px; }
 .media-link { overflow: hidden; position:relative; display: block; border: 6px solid; border-image: url('../images/frame-image-small.png') 6 6 6 6; margin-bottom: 15px; width: 280px; height: 210px;}
 .media-link:hover { border-image: url("../images/frame-image-small-hover.png") 6 6 6 6; background: rgba(0,0,0,.4) url('../images/media-link-image.png') center center no-repeat; }
 .media-link.selected { border-image: url("../images/frame-image-small-hover.png") 6 6 6 6; }
