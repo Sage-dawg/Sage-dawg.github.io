@@ -139,6 +139,37 @@ p.list-title { font-size: 15px; font-weight: bold; margin-bottom: 5px;}
 p.list-title a { font-size: 12px; color: #333; font-style: italic; text-decoration: underline;}
 p.list-title a:hover { color: #fff; }
 
+span.icons { width: 23px; height: 16px; background: url('../images/icons-sprite.png') 0 0 no-repeat; display: inline-block; margin-right: 12px; text-indent: -99999;}
+span.icons.icon-video { background-position: 0 0; }
+span.icons.icon-screenshot { background-position: 0 -16px; }
+span.icons.icon-music { background-position: 0 -32px; }
+span.icons.icon-folder { background-position: 0 -48px; }
+span.icons.icon-download { background-position: 0 -64px; }
+span.icons.icon-faq { background-position: 0 -80px; }
+span.icons.icon-about { background-position: 0 -96px; }
+span.icons.icon-log { background-position: 0 -112px; }
+span.icons.icon-characters { background-position: 0 -128px; }
+span.icons.icon-finish { width: 10px; height: 10px; background-position: -44px -82px; margin-right: 0; }
+span.icons.icon-dev { width: 10px; height: 10px; background-position: -44px -92px; margin-right: 0; }
+
+.dead-link { margin: 16px auto 17px; }
+
+.media-more { float: right; margin-top: -20px;}
+.media li span, .media-link span { font-size: 13px;  width: 100%; display: block; position: absolute; bottom: 0; color: #fff; margin: 0; padding: 0; background: #796035 url('../images/icons-sprite.png') -35px -132px no-repeat; padding: 8px 8px 8px 26px; }
+.media-link { overflow: hidden; position:relative; display: block; border: 6px solid; border-image: url('../images/frame-image-small.png') 6 6 6 6; margin-bottom: 15px; width: 280px; height: 210px;}
+.media-link:hover { border-image: url("../images/frame-image-small-hover.png") 6 6 6 6; background: rgba(0,0,0,.4) url('../images/media-link-image.png') center center no-repeat; }
+.media-link.selected { border-image: url("../images/frame-image-small-hover.png") 6 6 6 6; }
+.media-link.video:hover { background-image: url('../images/media-link-video.png'); }
+.media-link.video {padding-bottom: 32px;}
+.media-link.video, .media-link.video img { height: 158px; }
+.media-link.character, .media-link.character img { height: 80px; width: auto;}
+.media-link.character { padding-bottom: 32px;}
+.media-link.character:hover { background-image: none;}
+.media-link.character span { padding-left: 8px; background-image: none; background: #51482B;} 
+.media-link img {position: absolute; z-index: -100; max-width: 280px; max-height: 210px;}
+.media-link.home { width: 600px; height: 315px; }
+.media-link.home:hover{ border-image: url('../images/frame-image-small.png') 6 6 6 6; background: none; }
+
 .breadcrumb { height: 32px;  padding-left: 42px; background: url('https://2.bp.blogspot.com/-8No1FC6xEkE/VvTyFH46Q6I/AAAAAAAAACY/qL9-elAj000bhSVDX-qnXOZRI-qRLHBQw/s1600/sign.png') top left no-repeat; margin-bottom: 10px; }
 .breadcrumb h1 { font-size: 18px; font-weight: normal; line-height: 32px; margin: 0; padding: 0; }
 .breadcrumb h1 span { background: #489848; padding: 5px 55px 5px 0; }
