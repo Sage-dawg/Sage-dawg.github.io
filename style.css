@@ -48,6 +48,10 @@ td,th { padding: 0; }
 ul { padding: 0; margin: 0; list-style: none;}
 iframe { background: #000; }
 
+.screenshots {
+	width:280px;
+	/*height:204px;*/
+}
 
 .inside a { color: #eee; }
 .inside a:hover { color: #ffc435; }
