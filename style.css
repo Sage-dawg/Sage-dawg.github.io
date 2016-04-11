@@ -198,3 +198,13 @@ p.title-code { font-size: 12px; font-weight: bold; margin-bottom: 5px; margin-to
 	.image img { border-width: 6px; border-image: url("https://2.bp.blogspot.com/-1ADxKvAvqro/VvTyEF3BsvI/AAAAAAAAAB4/yW3-PGO7tyYuZ9nuBQGB63R3ILUh2LFxw/s1600/frame-image-small-hover.png") 6 6 6 6; margin-bottom: 15px;}
 	.image img:hover { border-image: url("https://3.bp.blogspot.com/-pRsBUNnrJMU/VvTyEJUV8EI/AAAAAAAAAB0/64_KqNyVO784Tc00sK_UJS37RNxzZKdsQ/s1600/frame-image-small.png") 6 6 6 6; }
     .featherlight:last-of-type{background: none repeat scroll 0 0 rgba(0, 0, 0, 0.7);}
+
+   div.captionhref { 
+    
+ background-color: #796035; border-color: transparent; border-image: url("https://2.bp.blogspot.com/-5GygSGpmcGs/VvTyEaq4BMI/AAAAAAAAACE/5eYZMu1ZjugtXfu-MUxGwMwhzL6tEqdxQ/s1600/frame-image.png") 6 6 6 6 ;
+    border-style: solid; border-width: 24px; padding: 0px;background-clip: padding-box;
+    
+    }
+  div.captionhref { border-width: 6px; border-image: url("https://2.bp.blogspot.com/-1ADxKvAvqro/VvTyEF3BsvI/AAAAAAAAAB4/yW3-PGO7tyYuZ9nuBQGB63R3ILUh2LFxw/s1600/frame-image-small-hover.png") 6 6 6 6 ; margin-bottom: 15px;}
+  p.captionhref { text-align:center; font-size:12.7px; margin:-1px 0px 1px 0px; }
+  div.captionhref:hover { background-color:#bf8f06; border-image: url("https://3.bp.blogspot.com/-pRsBUNnrJMU/VvTyEJUV8EI/AAAAAAAAAB0/64_KqNyVO784Tc00sK_UJS37RNxzZKdsQ/s1600/frame-image-small.png") 6 6 6 6; color:black; }
